@@ -76,4 +76,6 @@ public class Gincana {
 
         return false;
     }
+
+    // adicionando RA e nome    
 }
